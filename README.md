@@ -5,7 +5,9 @@
 
 ## 🏃‍♀️ Quick Start
 
-required: [Node](https://nodejs.org/dist/latest-v12.x/) plus [Yarn](https://classic.yarnpkg.com/en/docs/install/) and [Git](https://git-scm.com/downloads)
+required: [Node](https://nodejs.org/dist/latest-v12.x/) plus [Yarn](https://cl
+assic.yarnpkg.com/en/docs/install/) and [Git](https://git-scm.com/downloads) an
+d [IPFS](https://docs.ipfs.tech/install/ipfs-desktop/)
 
 
 ```bash
